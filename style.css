@@ -1,15 +1,15 @@
 body{
-	color:rgb(0, 0, 0) ;
-	background-color:rgb(230; 225; 240);
+	color:rgb(255, 255, 255) ;
+	background-color:black;
 	font-family:monospace;
 	font-size:15px;
 	line-height:20px;
 	letter-spacing: 0,5px;
-	text-align:left;
+	text-align:center;
 }
 h1{
 	color:#f53168;
-	font-family:sans-serif;
+	font-family:serif;
 	font-size:30px ;
 	font-variant:small-caps;
 	letter-spacing:3px;
@@ -18,14 +18,14 @@ h1{
 
 h2{
  	color:#13c268;
- 	font-family:sans-serif;
- 	font-weight:lighter;
+ 	font-family:cursive;
+ 	font-weight:bolder;
  	text-align:center;
  	letter-spacing: 8px;
  }
 
  h3{
- 	color:#f53168;
+ 	color:#ffc5a3;
 	font-family:sans-serif;
 	font-size:15px ;
 	font-variant:small-caps;
@@ -37,8 +37,8 @@ h2{
  	border:double;
  	margin:30px 70px;
  	padding: 10px 15px; 
-	border-radius: 10px;
-	box-shadow: 5px 5px 5px black;
+	border-radius: 20px;
+	box-shadow: 5px 5px 5px white;
  }
 
  a{
