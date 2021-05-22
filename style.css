@@ -1,18 +1,18 @@
 body{
-	color: #000000;
-	background-color: #212121);
+	color:rgb(255, 255, 255) ;
+	background-color:rgb(30, 30, 30);
 	font-family:monospace;
 	font-size:15px;
 	line-height:20px;
 	letter-spacing: 0,5px;
-	text-align:center;
+	text-align:left;
 }
 h1{
 	color:#f53168;
-	font-family:serif;
+	font-family:cursive;
 	font-size:30px ;
 	font-variant:small-caps;
-	letter-spacing:3px;
+	letter-spacing:9px;
 	text-align:center;
 } 
 
@@ -21,24 +21,25 @@ h2{
  	font-family:cursive;
  	font-weight:bolder;
  	text-align:center;
- 	letter-spacing: 8px;
+ 	letter-spacing: 11px;
+ 	font-size: 30px;
  }
 
  h3{
- 	color:#ffc5a3;
+ 	color:#f53168;
 	font-family:sans-serif;
-	font-size:15px ;
+	font-size:20px ;
 	font-variant:small-caps;
 	letter-spacing:1px;
 	text-align:center;
  }
 
  div{
- 	border:double;
- 	margin:30px 70px;
+ 	border:solid;
+ 	margin:50px 70px;
  	padding: 10px 15px; 
 	border-radius: 20px;
-	box-shadow: 5px 5px 5px white ;
+	box-shadow: 4px 2px 10px white;
  }
 
  a{
@@ -60,5 +61,13 @@ hr{
 }
 
 .maths{
-	margin-left:875px;
+	color:#f0a375;
+}
+
+.français{
+	color:#f0758a;
+}
+
+.histoire_geo_emc{
+	color:#75f0dc ;
 }
