@@ -1,6 +1,6 @@
 body{
-	color:rgb(255 , 255, 255) ;
-	background-color:rgb(30 , 30, 30);
+	color:rgb(255, 255, 255) ;
+	background-color: #f5f5f5;
 	font-family:monospace;
 	font-size:15px;
 	line-height:20px;
@@ -39,7 +39,8 @@ h2{
  	margin:50px 70px;
  	padding: 10px 15px; 
 	border-radius: 20px;
-	box-shadow: 4px 2px 10px white;
+	box-shadow: 3px 3px 3px grey;
+	background-color: rgb(30, 30, 30)
  }
 
  a{
@@ -70,4 +71,12 @@ hr{
 
 .histoire_geo_emc{
 	color:#75f0dc ;
+}
+
+.sciences {
+	color: #f0d264;
+}
+
+.oral {
+	color: #8ab8e6;
 }
